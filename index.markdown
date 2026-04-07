@@ -4,4 +4,6 @@
 
 layout: default
 ---
-test
+
+'''Education'''
+Dakota State University - B.S in Cyber Operations
