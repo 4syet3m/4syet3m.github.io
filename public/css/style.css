@@ -1,14 +1,18 @@
 * {
-    cursor: url("mouse.png");
+    cursor: url("/images/mouse.png");
     height: 100px;
 }
 html {
     font-family: "WindSong", "Quicksand", sans-serif;
 }
-nav {
+header {
+    background-color: #151e1e;
 
 }
 body {
 
 }
 
+.content {
+    
+}
