@@ -26,7 +26,7 @@ url: "https://4syet3m.github.io" # the base hostname & protocol for your site, e
 github_username:  4syet3m
 
 # Build settings
-remote_theme: pages-themes/modernist@v0.2.0
+theme:
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

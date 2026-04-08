@@ -12,7 +12,7 @@ Dakota State University - B.S in Cyber Operations
 ## Projects
 -- Personal GitHub Page
 
-##Achievements
+## Achievements
 '''2025'''
 Sept - Selected as recipient for Empo(WE)er Scholarship 
      - Selected as U.S. Cyber Games Pipeline Program Athlete
