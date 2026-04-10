@@ -1,18 +1,14 @@
 * {
-    cursor: url("/images/mouse.png");
+    cursor: url("/public/images/mouse.png");
     height: 100px;
 }
 html {
-    font-family: "WindSong", "Quicksand", sans-serif;
+    font-family: "Quicksand", sans-serif;
 }
 header {
     background-color: #151e1e;
 
 }
-body {
-
-}
-
-.content {
-    
+#wrapper {
+    background-color: white;
 }
