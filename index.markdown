@@ -6,7 +6,7 @@ layout: index
 title: About Me
 ---
 
-## About Me
+
 '''Education'''
 Dakota State University - B.S in Cyber Operations
 
