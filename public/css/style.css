@@ -4,6 +4,15 @@
 }
 html {
     font-family: sans-serif;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Quicksand";  
+}
+footer {
+    background-color: #151e1e;
+    clear: both;
+    text-align: right;
 }
 header {
     background-color: #151e1e;
@@ -11,14 +20,17 @@ header {
     padding: 20px 20px 20px 20px;
     font-family: "WindSong";
     color: white;
+    text-align: right;
 
 }
 header h1 {
-    margin-left: 1000px;
+    margin-left: 1em;
+    font-size: 3.0em;
 }
 #wrapper {
     background-color: white;
     width: auto;
     padding: 0px 500px 0px 500px;
+    margin: auto;
     box-sizing: border-box;
 }

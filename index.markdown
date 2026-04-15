@@ -6,12 +6,11 @@ layout: index
 title: About Me
 ---
 
-
-'''Education'''
+## Education
 Dakota State University - B.S in Cyber Operations
 
 ## Projects
--- Personal GitHub Page
+Personal GitHub Page
 
 ## Achievements
 '''2025'''
