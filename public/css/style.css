@@ -17,9 +17,6 @@ footer {
     background-color: #151e1e;
     padding: 20px;
 }
-footer a {
-    text-align: right;
-}
 footer a:link {
     text-decoration: none;
     color: white;
