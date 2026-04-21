@@ -1,36 +1,37 @@
 * {
     cursor: url("/public/images/mouse.png");
-    height: 100px;
 }
 html {
+    height: 1.5em;
+    width: auto;
     font-family: sans-serif;
     box-sizing: border-box;
 }
 body {
     font-family: "Quicksand";
     display: flex;
-    flex-flow: row;
+    flex-flow: wrap;
     justify-content: center;
 }
 footer {
     background-color: #151e1e;
-    clear: both;
-    text-align: right;
+    padding: 20px;
 }
 footer a {
-    margin-top: 100px;
     text-align: right;
 }
 footer a:link {
     text-decoration: none;
+    color: white;
 }
 footer a:visited {
     text-decoration: none;
 }
 header {
     background-color: #151e1e;
-    padding: 30px;
+    padding: 10px 80px 10px 30px;
     margin: auto;
+    min-width: 250px;
     display: flex;
     flex-flow: row;
     font-family: "WindSong";
@@ -38,11 +39,33 @@ header {
     text-align: right;
 
 }
+header img {
+    max-height: 60%;
+    max-width: 60%;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
 header h1 {
+    display: flex;
     flex-direction: column;
-    margin-left: 1em;
-    
+    margin: auto;
+    padding-top: 0.5em;
+    align-items: center;
     font-size: 3.0em;
+}
+hr.l1 {
+    border: none;
+    border-top: 2px solid #151e1e;
+    overflow: visible;
+    border-radius: 3px;
+}
+hr.l2 {
+    margin-right: 100px;
+    overflow: visible;
+    border: none;
+    border-top: 2px dashed #151e1e;
+    border-radius: 5px;
 }
 #wrapper {
     background-color: white;
