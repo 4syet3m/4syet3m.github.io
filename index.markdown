@@ -16,8 +16,12 @@ Personal GitHub Page
 <hr class="l2">
 ## Achievements
 <hr class="l1">
-'''2025'''
-Sept - Selected as recipient for Empo(WE)er Scholarship 
-     - Selected as U.S. Cyber Games Pipeline Program Athlete
-Jul  - Selected as U.S. Cyber Games Season 5 Combine Athlete
+### 2025 
+
+#### Sept  
+     - Selected as recipient for Empo(WE)er Scholarship 
+     - Selected as U.S. Cyber Games Pipeline Program Athlete  
+     
+#### Jul
+     - Selected as U.S. Cyber Games Season 5 Combine Athlete
 <hr class="l2">
