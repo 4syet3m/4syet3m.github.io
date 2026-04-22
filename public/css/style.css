@@ -1,12 +1,15 @@
 * {
     cursor: url("/public/images/mouse.png");
 }
+@media only screen and (min-width:100px) {
+    .container{width: auto; padding-left: 5%; padding-right: 5%};
+}
 html {
     height: 1.5em;
-    width: auto;
     font-family: sans-serif;
     box-sizing: border-box;
 }
+
 body {
     font-family: "Quicksand";
     display: flex;
@@ -28,7 +31,7 @@ header {
     background-color: #151e1e;
     padding: 10px 80px 10px 30px;
     margin: auto;
-    min-width: 250px;
+
     display: flex;
     flex-flow: row;
     font-family: "WindSong";
@@ -37,8 +40,6 @@ header {
 
 }
 header img {
-    max-height: 60%;
-    max-width: 60%;
     display: flex;
     flex-flow: column;
     align-items: center;
@@ -65,6 +66,7 @@ hr.l2 {
     border-radius: 5px;
 }
 #wrapper {
+    max-width: fit-content;
     background-color: white;
     padding: 0px 500px 0px 500px;
     margin: auto;
