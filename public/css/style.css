@@ -1,8 +1,8 @@
 * {
     cursor: url("/public/images/mouse.png");
 }
-@media screen and (min-width:0px) {
-    .container{width: auto; padding-left: 5%; padding-right: 5%};
+@media screen and (min-width:480px) {
+    .container{padding-left: 5%; padding-right: 5%; flex-direction: column};
 }
 html {
     height: 1.5em;
@@ -31,7 +31,6 @@ header {
     background-color: #151e1e;
     padding: 10px 80px 10px 30px;
     margin: auto;
-
     display: flex;
     flex-flow: row;
     font-family: "WindSong";
