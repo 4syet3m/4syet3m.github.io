@@ -13,7 +13,8 @@ Dakota State University - B.S in Cyber Operations
 ## Projects
 <hr class="l1">
 Personal GitHub Page
-U.S Cyber Games Pipeline Program A/D Project
+    
+U.S Cyber Games Pipeline Program A/D Project  
      - Submitted vulnerabilities for
      InvoiceNinja using SonarQube
 <hr class="l2">
