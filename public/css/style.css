@@ -73,6 +73,12 @@ hr.l2 {
     border-top: 2px dashed #151e1e;
     border-radius: 5px;
 }
+pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    max-width: 100%;
+}
 #wrapper {
     max-width: fit-content;
     background-color: white;
